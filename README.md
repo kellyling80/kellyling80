@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kelly . I'm a Python and C dev, with the occasional ML and Rust. 
+- 👋 Hi, I’m Kelly . I'm a Python,C, and js dev, with the occasional ML and Rust. 
 - 👀 I’m interested in Linux kernel development, FOSS, Debian, Arch, and containers.
 - 📫 How to reach me : a2VsbHlsaW5nODBAZ21haWwuY29t
 
